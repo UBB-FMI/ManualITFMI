@@ -1,19 +1,25 @@
 # VPN Wireguard
 
-Aceste instructiuni sunt menite sa ofere indicatii pentru configurarea noului VPN WireGuard.
+> Aceste instructiuni sunt menite sa ofere indicatii pentru configurarea noului VPN Wireguard.
 
-In functie de tipul de cont (Profesor sau Student), este posibil sa obtineti permisiuni de retea diferite.
+In functie de tipul de cont (Profesor sau Student), este posibil sa obtineti permisiuni de retea diferite dupa cum urmeaza:
 
-De exemplu, conturile VPN pentru studenti au acces doar la anumite echipamente interne si, in mod implicit, nu permit rutarea traficului general de internet prin intermediul acestora. Acest lucru inseamna ca, in cazul in care incercati sa ocoliti aceasta restrictie, computerul dumneavoastra nu va avea acces la internet pana cand nu veti anula modificarile aduse configuratiei VPN. In cazul in care trebuie facute exceptii de la aceasta regula, administratorii va vor ajuta la cerere.
+- Conturile cadrelor didactice sunt nelimitate si permit accesul complet la internet ca si cum ati fi fizic in campus
+	- Aveti acces complet la echipamentele interne, la fel ca in reteaua locala
+	- Site-urile pe care le vizitati cred ca va aflati fizic in campus, indiferent unde ati fi de fapt
+	- Aveti acces la Web of Science si la alte site-uri de reviste, jurnale si articole
+- Conturile studentilor sunt restrictionate si au acces doar la anumite echipamente interne
+	- Studentii nu pot naviga pe internet prin VPN, chiar daca isi suprascriu configuratia VPN locala
 
-Conturile cadrelor didactice au capacitate de rutare completa si puteti accesa internetul prin intermediul acestora ca si cum ati fi fizic in campus. Astfel, veti avea acces la diverse carti si resurse, cum ar fi Web of Science si altele asemanatoare.
+> Viteza de acces la VPN este limitata din cauza constrangerilor legate de latimea de banda si de infrastructura.
 
-In prezent, trebuie sa solicitati o permisiune speciala din partea administratiei IT pentru a utiliza acest VPN. Acest lucru se poate face scriind un mesaj Microsoft Teams sau trimitand un e-mail in care sa precizati de ce aveti nevoie de aceasta functionalitate.
+In prezent, pentru a primi acces la VPN, trebuie sa solicitati permisiunea administratorilor de sistem. Ar fi recomandabil sa mentionati motivul pentru care aveti nevoie de acces.
 
-Odata ce permisiunea a fost acordata, puteti accesa gateway-ul VPN prin intermediul unui browser **web la acest [URL](https://www.cs.ubbcluj.ro/vpn)**.
+Odata ce permisiunea a fost acordata, puteti accesa gateway-ul VPN prin intermediul unui **[browser web, la acest URL](https://www.cs.ubbcluj.ro/vpn)**.
 
 <p>
 	<center>
 		<img width='50%' height='50%' src="media/overview.png" alt="The Rust Logo"/>
 	</center>
 </p>
+
