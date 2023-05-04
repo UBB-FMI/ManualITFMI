@@ -25,7 +25,7 @@ Atat cadrele didactice, cat si studentii au acces SSH la resursele lor respectiv
 
 ## Porturi
 
-You can reach the SSH service on these servers (the address can be substituted according to the data above) at various ports, as listed below:
+Puteti accesa serviciile SSH de pe aceste servere (adresa poate fi inlocuita in functie de datele de mai sus) la diferite porturi, enumerate mai jos:
 
 | Server                 | Port     	|
 |------------------------|--------------|
