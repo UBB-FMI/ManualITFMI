@@ -23,7 +23,7 @@ Atat cadrele didactice, cat si studentii au acces SSH la resursele lor respectiv
 - Serverele Liniei Maghiare 
     - **_In prezent in curs de documentare._**
 
-## Ports
+## Porturi
 
 You can reach the SSH service on these servers (the address can be substituted according to the data above) at various ports, as listed below:
 
