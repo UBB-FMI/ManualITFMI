@@ -18,7 +18,7 @@ Cautati "Wireguard" si descarcati-l pe cel prezentat in imaginea de mai jos.
 
 > Alternativ, puteti accesa [acest link](https://apps.apple.com/ro/app/wireguard/id1451685025?mt=12) pentru a ajunge direct la aplicatia corecta din App Store.
 
-## Configurarea tunelului
+# Configurarea tunelului
 <p>
 	<center>
 		<img src="media/wireguard_macos_installer.png"/>
@@ -33,7 +33,7 @@ Folositi butonul "Import tunnel(s) from file", asa cum este indicat in imaginea 
 	</center>
 </p>
 
-Daca vi se solicita, permiteti Wireguard sa gestioneze conexiunile VPN existente, asa cum este indicat in imaginea de mai sus.
+Daca vi se solicita, permiteti ca Wireguard sa gestioneze conexiunile VPN existente, asa cum este indicat in imaginea de mai sus.
 
 > Este posibil sa vi se ceara sa introduceti parola dispozitivului pentru a permite efectuarea acestei modificari.
 
@@ -50,7 +50,7 @@ Odata selectat, fereastra ar trebui sa se modifice dupa cum urmeaza:
 
 > Textul butoanelor si al statisticilor poate fi in alta limba. Cu toate acestea, pozitia lor ar trebui sa fie asemanatoare.
 
-## Activarea conexiunii
+# Activarea conexiunii
 <p>
 	<center>
 		<img src="media/wireguard_macos_active.png"/>
@@ -66,7 +66,7 @@ Pentru a dezactiva VPN-ul, faceti clic din nou pe butonul "Activate", care acum 
 
 > VPN-ul poate parea activ, dar totusi valoarea octetilor "primiti" ramane zero. In acest caz, va rugam sa verificati conectivitatea utilizand un hotspot mobil. Este foarte probabil ca configuratia actuala a retelei dvs. sa nu permita utilizarea VPN-ului. Daca functionalitatea prin hotspot-ul mobil este confirmata, va rugam sa consultati furnizorul dvs. de internet pentru asistenta suplimentara.
 
-## Ascunderea ferestrei de configurare
+# Ascunderea ferestrei de configurare
 <p>
 	<center>
 		<img src="media/wireguard_macos_hidden.png"/>

@@ -2,7 +2,7 @@
 
 Cu ajutorul browserului, descarcati [pachetul de instalare pentru Windows](https://download.wireguard.com/windows-client/wireguard-installer.exe), apoi deschideti fisierul descarcat.
 
-## Configurarea tunelului
+# Configurarea tunelului
 <p>
 	<center>
 		<img src="media/wireguard_windows_installer.png"/>
@@ -24,7 +24,7 @@ Odata selectat, fereastra ar trebui sa se modifice dupa cum urmeaza:
 
 > Textul butoanelor si al statisticilor poate fi in alta limba. Cu toate acestea, pozitia lor ar trebui sa fie asemanatoare.
 
-## Activarea conexiunii
+# Activarea conexiunii
 <p>
 	<center>
 		<img src="media/wireguard_windows_active.png"/>
@@ -40,7 +40,7 @@ Pentru a dezactiva VPN-ul, faceti clic din nou pe butonul "Activate", care acum 
 
 > VPN-ul poate parea activ, dar totusi valoarea octetilor "primiti" ramane zero. In acest caz, va rugam sa verificati conectivitatea utilizand un hotspot mobil. Este foarte probabil ca configuratia actuala a retelei dvs. sa nu permita utilizarea VPN-ului. Daca functionalitatea prin hotspot-ul mobil este confirmata, va rugam sa consultati furnizorul dvs. de internet pentru asistenta suplimentara.
 
-## Ascunderea ferestrei de configurare
+# Ascunderea ferestrei de configurare
 <p>
 	<center>
 		<img src="media/wireguard_windows_hidden.png"/>
