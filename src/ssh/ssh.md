@@ -30,8 +30,8 @@ You can reach the SSH service on these servers (the address can be substituted a
 | Server                 | Port     	|
 |------------------------|--------------|
 | `nessie.cs.ubbcluj.ro` | **2222** 	|
-| `linux.scs.ubbcluj.ro` | **22**   	|
 | `math.ubbcluj.ro`      | **2222** 	|
+| `linux.scs.ubbcluj.ro` | **22**   	|
 
 ## Servicii
 
