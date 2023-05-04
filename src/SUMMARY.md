@@ -1,11 +1,16 @@
 # Summary
 
 [Versiune Manual](./autoversion.md)
+
+# Servere & Servicii
+
 - [VPN Wireguard](./wireguard/wireguard.md)
-	- [Windows](./wireguard/wireguard_windows.md)
-	- [MacOS](./wireguard/wireguard_macos.md)
-	- [Linux](./wireguard/wireguard_linux.md)
+	- [Windows](./wireguard/windows/wireguard.md)
+	- [MacOS](./wireguard/macos/wireguard.md)
+	- [Linux](./wireguard/linux/wireguard.md)
 - [SSH/SFTP](./ssh/ssh.md)
-	- [Windows](./ssh/ssh_windows.md)
-	- [MacOS](./ssh/ssh_macos.md)
-	- [Linux](./ssh/ssh_linux.md)
+	- [Windows](./ssh/windows/ssh.md)
+		- [Bitvise SSH](./ssh/windows/bitvise/ssh.md)
+		- [Putty](./ssh/windows/putty/ssh.md)
+	- [MacOS](./ssh/macos/ssh.md)
+	- [Linux](./ssh/linux/ssh.md)

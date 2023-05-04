@@ -4,7 +4,7 @@
 
 Accesul SSH la servicii depinde de obicei de cazul de utilizare al acestora. Unele dintre ele functioneaza prin autentificare cu parola, altele necesita configurarea unei perechi de chei.
 
-> Este puternic recomandat sa configurati un mecanism de autentificare bazat pe chei ** cat mai curand posibil**, deoarece autentificarea bazata pe parole ar putea fi dezactivata si depreciata pentru serverele de mare profil.
+> Este puternic recomandat sa configurati un mecanism de autentificare bazat pe chei **cat mai curand posibil**, deoarece autentificarea bazata pe parole ar putea fi dezactivata si depreciata pentru serverele de mare profil.
 
 Atat cadrele didactice, cat si studentii au acces SSH la resursele lor respective. In acest moment, serverele cadrelor didactice sunt impartite in mai multe componente:
 

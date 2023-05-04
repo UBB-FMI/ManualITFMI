@@ -5,7 +5,7 @@ Cu ajutorul browserului, descarcati [pachetul de instalare pentru Windows](https
 # Configurarea tunelului
 <p>
 	<center>
-		<img src="media/wireguard_windows_installer.png"/>
+		<img src="assets/installer.png"/>
 	</center>
 </p>
 
@@ -13,7 +13,7 @@ Folositi butonul `Import tunnel(s) from file`, asa cum este indicat in imaginea 
 
 <p>
 	<center>
-		<img src="media/wireguard_windows_added.png"/>
+		<img src="assets/added.png"/>
 	</center>
 </p>
 
@@ -27,7 +27,7 @@ Odata selectat, fereastra ar trebui sa se modifice dupa cum urmeaza:
 # Activarea conexiunii
 <p>
 	<center>
-		<img src="media/wireguard_windows_active.png"/>
+		<img src="assets/active.png"/>
 	</center>
 </p>
 
@@ -43,7 +43,7 @@ Pentru a dezactiva VPN-ul, faceti clic din nou pe butonul `Activate`, care acum 
 # Ascunderea ferestrei de configurare
 <p>
 	<center>
-		<img src="media/wireguard_windows_hidden.png"/>
+		<img src="assets/hidden.png"/>
 	</center>
 </p>
 
