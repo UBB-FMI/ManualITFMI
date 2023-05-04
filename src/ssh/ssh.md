@@ -1,39 +1,46 @@
 # SSH
 
-## General Information
+## Informatii generale
 
-SSH access to serves typically depends on their use case. Some of them work by password authentication, others require setting up a keypair.
+Accesul SSH la servicii depinde de obicei de cazul de utilizare al acestora. Unele dintre ele functioneaza prin autentificare cu parola, altele necesita configurarea unei perechi de chei.
 
-> It is highly recommended that you set up a key based authentication mechanism **as soon as possible**, because password based authentication might be disabled and deprecated for high-profile servers.
+> Este puternic recomandat sa configurati un mecanism de autentificare bazat pe chei ** cat mai curand posibil**, deoarece autentificarea bazata pe parole ar putea fi dezactivata si depreciata pentru serverele de mare profil.
 
-Teachers and Students alike have SSH access to their respective resources. At the moment, the Teacher's servers are divided into multiple components:
+Atat cadrele didactice, cat si studentii au acces SSH la resursele lor respective. In acest moment, serverele cadrelor didactice sunt impartite in mai multe componente:
 
-- Servers of the Department of Computer Science
-	- `nessie.cs.ubbcluj.ro` - The main domain name for Teachers, resolved by internal DNS servers
-		- `www.cs.ubbcluj.ro` - The outside domain name, resolvable everywhere
-		- `cs.ubbcluj.ro` - The outside domain name, **NOT** resolved locally
-		- `172.30.0.3` - The direct internal IP address. _This address might soon be forbidden for public use._
-	- `linux.scs.ubbcluj.ro` - The main domain name for Students, resolved by internal DNS servers
-		- `www.scs.ubbcluj.ro` - The outside domain name, resolvable everywhere
-		- `scs.ubbcluj.ro` - The outside domain name, **NOT** resolved locally
-		- `172.30.0.4` - The direct internal IP address. _This address might soon be forbidden for public_
-- Servers of the Department of Mathematics
-	-  `math.ubbcluj.ro` - The main domain name for Teachers, resolved everywhere
-- Servers of the Hungarian Line of Teaching
-	-  **_Currently pending documentation._**
-
-> You can always access these servers by means of a privileged VPN connection. For some of these servies, access is permitted remotely without the use of a VPN.
+- Serverele Departamentului de Informatica
+	- `nessie.cs.ubbcluj.ro` - Numele de domeniu principal pentru cadrele didactice, rezolvat de serverele DNS interne
+        - `www.cs.ubbcluj.ro` - Numele de domeniu extern, rezolvabil de peste tot
+        - `cs.ubbcluj.ro` - Numele de domeniu exterior, **NU** este rezolvat local
+		- `172.30.0.3` - Adresa IP interna directa. _Aceasta adresa ar putea fi in curand interzisa pentru public._
+	- `linux.scs.ubbcluj.ro` - Numele de domeniu principal pentru studenti, rezolvat de serverele DNS interne
+        - `www.scs.ubbcluj.ro` - Numele de domeniu extern, rezolvabil de peste tot
+        - `scs.ubbcluj.ro` - Numele de domeniu exterior, **NU** este rezolvat local
+		- `172.30.0.4` - Adresa IP interna directa. _Aceasta adresa ar putea fi in curand interzisa pentru public_.
+- Serverele Departamentului de Matematica
+	- `math.ubbcluj.ro` - Numele de domeniu principal pentru profesori, rezolvat peste tot
+		- `172.30.0.5` - Adresa IP interna directa. _Aceasta adresa ar putea fi in curand interzisa pentru public_.
+- Serverele Liniei Maghiare 
+    - **_In prezent in curs de documentare._**
 
 ## Ports
 
-You can reach the SSH service on these servers at various ports, as listed below:
+You can reach the SSH service on these servers (the address can be substituted according to the data above) at various ports, as listed below:
 
-| Server                 	| Port     	|
-|------------------------	|----------	|
-| `nessie.cs.ubbcluj.ro` 	| **2222** 	|
-| `linux.scs.ubbcluj.ro` 	| **22**   	|
-| `math.ubbcluj.ro`      	| **2222** 	|
+| Server                 | Port     	|
+|------------------------|--------------|
+| `nessie.cs.ubbcluj.ro` | **2222** 	|
+| `linux.scs.ubbcluj.ro` | **22**   	|
+| `math.ubbcluj.ro`      | **2222** 	|
 
-## Services
+## Servicii
 
-All servers offer a login shell, as well as SFTP services for updating files in your personal directory.
+Toate serverele ofera un shell, precum si servicii SFTP pentru actualizarea fisierelor din directorul personal.
+
+> SFTP este modalitatea recomandata de gestionare a fisierelor de pe site-ul personal. Alte metode **vor fi depreciate** in curand.
+
+## Conectivitate
+
+> Puteti accesa intotdeauna aceste servere prin intermediul unei conexiuni VPN privilegiate. Pentru unele dintre aceste servicii, accesul este permis de la distanta fara utilizarea unui VPN. Cu toate acestea, trebuie sa solicitati mai intai permisiunea, precum si sa cereti echipei IT sa va configureze un whitelist.
+
+In functie de sistemul de operare, exista mai multe modalitati de conectare. Va rugam sa consultati ghidurile fiecarui sistem de operare in parte.
