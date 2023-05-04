@@ -4,7 +4,7 @@ Accesati `App Store` de pe dispozitivul MacOS.
 
 <p>
 	<center>
-		<img src="media/wireguard_macos_appstore.png"/>
+		<img src="assets/appstore.png"/>
 	</center>
 </p>
 
@@ -12,7 +12,7 @@ Cautati `Wireguard` si descarcati-l pe cel prezentat in imaginea de mai jos.
 
 <p>
 	<center>
-		<img src="media/wireguard_macos_search.png"/>
+		<img src="assets/search.png"/>
 	</center>
 </p>
 
@@ -21,7 +21,7 @@ Cautati `Wireguard` si descarcati-l pe cel prezentat in imaginea de mai jos.
 # Configurarea tunelului
 <p>
 	<center>
-		<img src="media/wireguard_macos_installer.png"/>
+		<img src="assets/installer.png"/>
 	</center>
 </p>
 
@@ -29,7 +29,7 @@ Folositi butonul `Import tunnel(s) from file`, asa cum este indicat in imaginea 
 
 <p>
 	<center>
-		<img src="media/wireguard_macos_allow.png"/>
+		<img src="assets/allow.png"/>
 	</center>
 </p>
 
@@ -39,7 +39,7 @@ Daca vi se solicita, permiteti ca Wireguard sa gestioneze conexiunile VPN existe
 
 <p>
 	<center>
-		<img src="media/wireguard_macos_added.png"/>
+		<img src="assets/added.png"/>
 	</center>
 </p>
 
@@ -53,7 +53,7 @@ Odata selectat, fereastra ar trebui sa se modifice dupa cum urmeaza:
 # Activarea conexiunii
 <p>
 	<center>
-		<img src="media/wireguard_macos_active.png"/>
+		<img src="assets/active.png"/>
 	</center>
 </p>
 
@@ -69,7 +69,7 @@ Pentru a dezactiva VPN-ul, faceti clic din nou pe butonul `Activate`, care acum 
 # Ascunderea ferestrei de configurare
 <p>
 	<center>
-		<img src="media/wireguard_macos_hidden.png"/>
+		<img src="assets/hidden.png"/>
 	</center>
 </p>
 
