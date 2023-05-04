@@ -19,7 +19,7 @@ Odata ce permisiunea a fost acordata, puteti accesa gateway-ul VPN prin intermed
 
 <p>
 	<center>
-		<img width='50%' height='50%' src="media/overview.png"/>
+		<img  src="media/overview.png"/>
 	</center>
 </p>
 
