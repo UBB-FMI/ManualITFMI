@@ -34,4 +34,6 @@ Dupa ce ati completat toate campurile, puteti face clic pe "Generate". Site-ul a
 
 > Fisierul de configurare joaca rolul unei carti de identitate. Oricine reuseste sa il fure poate sa se dea drept dumneavoastra. Intr-un astfel de scenariu, puteti fi tras la raspundere pentru eventualele consecinte.
 
-Odata ce aveti fisierul la indemana, puteti trece la urmatorul pas din acest ghid, in functie de sistemul de operare pe care il utilizati.
+Odata ce aveti fisierul la indemana, puteti trece la urmatorul pas din acest ghid, in functie de sistemul de operare pe care il utilizati. 
+
+In cele din urma, puteti confirma functionalitatea VPN-ului asigurandu-va ca ISP-ul identificat [aici](https://www.whatismyisp.com/) este intr-adevar Universitatea Babes-Bolyai.
