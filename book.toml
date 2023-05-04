@@ -1,5 +1,8 @@
 [book]
 authors = []
-language = "en"
+language = "ro"
 multilingual = false
 src = "src"
+
+[output.html.fold]
+enable = true
