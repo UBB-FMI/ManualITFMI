@@ -1,4 +1,4 @@
-# SSH
+# SSH & SFTP
 
 ## Informatii generale
 

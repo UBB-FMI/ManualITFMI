@@ -8,7 +8,7 @@
 	- [Windows](./wireguard/windows/wireguard.md)
 	- [MacOS](./wireguard/macos/wireguard.md)
 	- [Linux](./wireguard/linux/wireguard.md)
-- [SSH/SFTP](./ssh/ssh.md)
+- [SSH & SFTP](./ssh/ssh.md)
 	- [Windows](./ssh/windows/ssh.md)
 		- [Bitvise SSH](./ssh/windows/bitvise/ssh.md)
 		- [Putty](./ssh/windows/putty/ssh.md)
