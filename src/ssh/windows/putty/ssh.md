@@ -1,3 +1,3 @@
-# Putty
+# PuTTY
 
 **In curs de documentare**

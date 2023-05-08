@@ -2,7 +2,7 @@
 
 > Aceste instructiuni sunt menite sa ofere indicatii pentru configurarea noului VPN Wireguard.
 
-In functie de tipul de cont (Cadru didactic sau Student), este posibil sa obtineti permisiuni de retea diferite dupa cum urmeaza:
+In functie de tipul de cont (cadru didactic sau student), este posibil sa obtineti permisiuni de retea diferite dupa cum urmeaza:
 
 - Conturile cadrelor didactice sunt nelimitate si permit accesul complet la internet ca si cum ati fi fizic in campus.
 	- Aveti acces complet la echipamentele interne, la fel ca in reteaua locala.
