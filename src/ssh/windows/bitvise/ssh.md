@@ -232,5 +232,6 @@ If however you are successful, you should see a screen similar to the one shown 
 
 You can now open a `Terminal` (or more of them if you want) as well as `SFTP` windows, as indicated in the image above by fields `1` and `2` respectively. 
 
-Congratiulations! You have successfully set up the Bitvise SSH Client for use with servers of your choice, using public key authentication mechanisms. 
+Congratiulations! You have successfully set up the Bitvise SSH Client for use with servers of your choice, using public key authentication mechanisms.
 
+If you want to get more out of Bitvise, please consult the guide for power users.
