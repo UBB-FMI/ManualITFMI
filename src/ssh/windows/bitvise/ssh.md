@@ -203,7 +203,7 @@ Presupunand ca totul a mers bine, ar trebui sa va puteti conecta la server folos
 	</center>
 </p>
 
-> Este posibil sa vi se solicite sa introduceti fraza de acces a perechii de chei, daca ati setat una, asa cum vi s-a sugerat. Nu uitati ca aceasta **nu este** parola contului dumneavoastra, ci parola cheii pe care ati setat-o la etapa `Generating Keys`.
+> Este posibil sa vi se solicite sa introduceti fraza de acces a perechii de chei, daca ati setat una, asa cum vi s-a sugerat. Nu uitati ca aceasta **nu este** parola contului dumneavoastra, ci parola cheii pe care ati setat-o la etapa `Generarea cheilor`.
 
 #### Conectare - Cazul de esec
 > Daca nu v-ati configurat corect cheia publica in ambele parti, este posibil sa vi se ceara sa introduceti parola. Daca se intampla acest lucru, pur si simplu abandonati acest pas si verificati daca ati urmat corect acest ghid.
