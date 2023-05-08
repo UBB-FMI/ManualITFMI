@@ -2,7 +2,7 @@
 
 ## Instalarea Bitvise SSH
 
-Folosind un browser web, descarcati programul de instalare Bitvise SSH de la [acest link](https://dl.bitvise.com/BvSshClient-Inst.exe), care ar trebui sa descarce direct programul de instalare corespunzator. Daca nu functioneaza, incercati in schimb [acest link](https://www.bitvise.com/ssh-client-download), care duce la pagina de descarcare efectiva a software-ului. Puteti vedea butonul de descarcare in imaginea de mai jos.
+Folosind un browser web, descarcati programul de instalare Bitvise SSH de la [acest link](https://dl.bitvise.com/BvSshClient-Inst.exe), care ar trebui sa descarce in mod direct fisierul corect. Daca nu functioneaza, incercati in schimb [acest link](https://www.bitvise.com/ssh-client-download), care duce la pagina de descarcare efectiva a software-ului. Puteti vedea butonul de descarcare in imaginea de mai jos.
 
 <p>
 	<center>
