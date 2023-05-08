@@ -1,8 +1,8 @@
-# Bitvise SSH - Power users
+# Bitvise SSH - Utilizatori experimentati
 
-## Open SFTP & Terminal automatically
+## Deschideti SFTP & Terminal automat
 
-If you wish, you can have a `Terminal` and `SFTP` window open automatically upon a successful connection. In order to activate this feature, browse to the `Options` tab of Bitvise, and set the `Open Terminal` option to `Always`, and tick the `Open SFTP` checkbox, as shown in the image below. 
+Daca doriti, puteti face ca o fereastra `Terminal` si `SFTP` sa se deschida automat in cazul unei conexiuni reusite. Pentru a activa aceasta functie, accesati fila `Options` din Bitvise si setati optiunea `Open Terminal` la `Always` si bifati caseta de selectare `Open SFTP`, asa cum este ilustrat in imaginea de mai jos.
 
 <p>
 	<center>
@@ -10,15 +10,15 @@ If you wish, you can have a `Terminal` and `SFTP` window open automatically upon
 	</center>
 </p>
 
-## SFTP Sync
+## Sincronizare SFTP
 
-From the `SFTP` window, you can edit files on the server directly. This is done by right clicking a file of your choice, followed by the `Edit` button. Changes made to the open file will automatically get uploaded to the server, provided the file has proper permissions and is editable by you. 
+Din fereastra `SFTP`, puteti edita direct fisierele de pe server. Acest lucru se face facand clic dreapta pe un fisier la alegere, urmat de butonul `Edit`. Modificarile facute la fisierul deschis vor fi incarcate automat pe server, cu conditia ca fisierul sa aiba permisiunile corespunzatoare si sa fie editabil de catre dumneavoastra. 
 
-There is no need to download this file first in order to make changes to it. 
+Nu este nevoie sa descarcati mai intai acest fisier pentru a putea face modificari asupra lui. 
 
-> After making changes to a file, you need to save it in order for the changes to actually get uploaded to the server. 
+> Dupa ce ati facut modificari la un fisier, trebuie sa il salvati pentru ca modificarile sa fie incarcate efectiv pe server. 
 
-Please note that this feature only works one way. If someone else opens and changes the file you're editing, you will not see their changes until you re-open the file.
+Va rugam sa retineti ca aceasta functie functioneaza doar intr-un singur sens. Daca altcineva deschide si modifica fisierul pe care il editati, nu veti vedea modificarile sale pana cand nu redeschideti fisierul.
 
 <p>
 	<center>
@@ -26,9 +26,9 @@ Please note that this feature only works one way. If someone else opens and chan
 	</center>
 </p>
 
-## SFTP Drive Mapping
+## Maparea discurilor SFTP
 
-If you need to have the files accessible locally, as if they were stored on your computer, you can use the `SFTP Drive Mapping` feature of Bitvise, which is accessible from the `Services` tab. Turn on this feature, and tick the `Multi-threaded` checkbox next to it for a boost in performance while operating with files this way. See the image below for more information.
+Daca aveti nevoie ca fisierele sa fie accesibile local, ca si cum ar fi stocate pe computerul dumneavoastra, puteti utiliza functia `SFTP Drive Mapping` a Bitvise, care este accesibila din fila `Services`. Activati aceasta caracteristica si bifati caseta de selectare `Multi-threaded` de langa ea pentru a obtine un spor de performanta in timp ce operati cu fisierele in acest mod. Consultati imaginea de mai jos pentru mai multe informatii.
 
 <p>
 	<center>
@@ -36,9 +36,9 @@ If you need to have the files accessible locally, as if they were stored on your
 	</center>
 </p>
 
-> You may need to `Log out` from Bitvise if you have a connection open while activating this feature. Upon `Log in`, the feature should work correctly.
+> Este posibil sa fie nevoie sa va deconectati din Bitvise daca aveti o conexiune deschisa in timp ce activati aceasta functie. Dupa `Log in`, functia ar trebui sa functioneze corect.
 
-After this feature has been activated, you should now be able to see a new `Network drive` in `This PC`, as illustrated below. 
+Dupa activarea acestei functionalitati, ar trebui sa puteti vedea acum o noua `Unitate de retea` in `This PC`, asa cum este ilustrat mai jos.
 
 <p>
 	<center>
@@ -46,7 +46,7 @@ After this feature has been activated, you should now be able to see a new `Netw
 	</center>
 </p>
 
-> This feature mounts the `SFTP` drive locally, but you'll have to manually navigate to your home folder. If you do not have adequate permissions to list directories along the path to your home directory, you may have to enter the path directly in `Windows Explorer`'s path navigation tab, as illustrated below. 
+> Aceasta functie monteaza unitatea `SFTP` la nivel local, dar va trebui sa navigati manual in dosarul de pornire. Daca nu aveti permisiuni adecvate pentru a lista directoarele de-a lungul traseului catre directorul personal, este posibil sa trebuiasca sa introduceti calea direct in fila de navigare a caii din `Windows Explorer`, asa cum este ilustrat mai jos.
 
 <p>
 	<center>
