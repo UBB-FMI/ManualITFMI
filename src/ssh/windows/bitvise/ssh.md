@@ -131,7 +131,7 @@ Acum ca aveti cheia publica la indemana, in functie de serverul pe care doriti s
 - **Metoda usoara (recomandata)** - Puteti cere administratiei IT sa instaleze aceasta cheie pentru dumneavoastra.
 	- Trimiteti textul continut in instanta Notepad catre echipa IT. Acestia va vor anunta cand va fi gata de utilizare. Dupa aceasta, puteti considera acest pas incheiat.
 - **Metoda complexa (avansata)** - Instalati cheia dumneavoastra insusi
-- Aceasta procedura presupune ca stiti deja cum sa modificati fisierele din contul personal si, prin urmare, este considerata o procedura avansata.
+	- Aceasta procedura presupune ca stiti deja cum sa modificati fisierele din contul personal si, prin urmare, este considerata o procedura avansata.
 
 #### 1. Metoda usoara (recomandata)
 
