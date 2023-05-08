@@ -137,8 +137,6 @@ Acum ca aveti cheia publica la indemana, in functie de serverul pe care doriti s
 
 Trimiteti fisierul `.pub` pe care l-ati obtinut la pasul anterior (sau, mai bine zis, continutul acestui fisier) catre administratia noastra IT. Acestia va vor informa atunci cand aceasta etapa de configurare este finalizata. In timp ce asteptati, puteti continua sa urmati restul ghidului (sarind peste instalarea cheii, deoarece aceasta este tot ce trebuie sa faceti deocamdata).
 
-#### 2. Complex method (Advanced)
-
 #### 2. Metoda complexa (avansata)
 
 Daca va simtiti confortabil sa gestionati fisierele si continutul acestora pe un server la care aveti deja acces, ceea ce trebuie sa faceti este sa va asigurati ca in directorul personal exista un folder numit `.ssh`. Puteti face acest lucru conectandu-va la server sub numele contului dumneavoastra si tastand `ls -la`. Ar trebui sa vedeti folderele pe care le aveti, care ar trebui sa arate ceva asemanator cu rezultatul de mai jos. 
