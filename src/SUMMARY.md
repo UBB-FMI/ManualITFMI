@@ -15,3 +15,6 @@
 		- [PuTTY](./ssh/windows/putty/ssh.md)
 	- [MacOS](./ssh/macos/ssh.md)
 	- [Linux](./ssh/linux/ssh.md)
+- [Thunderbird](./thunderbird/thunderbird.md)
+	- [Office 365](./thunderbird/office365/thunderbird.md)
+	- [Intern](./thunderbird/intern/thunderbird.md)
