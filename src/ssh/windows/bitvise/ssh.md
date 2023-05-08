@@ -234,4 +234,4 @@ Acum puteti deschide o fereastra `Terminal` (sau mai multe, daca doriti), precum
 
 Felicitari! Ati reusit sa configurati cu succes clientul SSH Bitvise pentru a fi utilizat cu serverele pe care le alegeti, folosind mecanisme de autentificare cu cheie publica.
 
-Daca doriti sa obtineti mai mult de la Bitvise, va rugam sa consultati ghidul pentru utilizatorii experimentati.
+Daca doriti sa obtineti mai mult de la Bitvise, va rugam sa consultati ghidul pentru utilizatorii experimentati ("`Extra`").

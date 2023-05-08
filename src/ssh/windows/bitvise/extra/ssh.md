@@ -1,4 +1,4 @@
-# Bitvise SSH - Utilizatori experimentati
+# Bitvise SSH - Extra
 
 ## Deschideti SFTP & Terminal automat
 
