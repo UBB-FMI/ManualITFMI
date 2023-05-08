@@ -11,7 +11,7 @@
 - [SSH/SFTP](./ssh/ssh.md)
 	- [Windows](./ssh/windows/ssh.md)
 		- [Bitvise SSH](./ssh/windows/bitvise/ssh.md)
-			- [Avansat](./ssh/windows/bitvise/poweruser/ssh.md)
+			- [Extra](./ssh/windows/bitvise/poweruser/ssh.md)
 		- [Putty](./ssh/windows/putty/ssh.md)
 	- [MacOS](./ssh/macos/ssh.md)
 	- [Linux](./ssh/linux/ssh.md)
