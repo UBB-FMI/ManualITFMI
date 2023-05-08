@@ -112,7 +112,7 @@ After this, make sure to untick the checkbox named `Always use this app to open 
 	<center>
 		<img src="assets/bitvise_openwith_w10_1.png"/>
 	</center>
-</p
+</p>
 
 Now select `Notepad` from the list of applications, as shown below. After that, click `OK`. Make sure the checkbox indicated by point number `2` is still unchecked. 
 
@@ -120,7 +120,7 @@ Now select `Notepad` from the list of applications, as shown below. After that, 
 	<center>
 		<img src="assets/bitvise_openwith_w10_2.png"/>
 	</center>
-</p
+</p>
 
 After this, a Notepad instance should open. Leave this window open, and copy the text inside.
 
@@ -163,3 +163,74 @@ You need to replace the `THE_PUBLIC_KEY_FROM_NOTEPAD` placeholder with your actu
 > With most existing SSH solutions, you can paste content into the terminal window by right clicking with your mouse. This way, you can type `echo "`, followed by a right click (which should paste what you copied before from the Notepad document), followed by typing the rest of the command manually: `" >> ~/.ssh/authorized_keys`. Please observe the prefix and suffix quotes, do not forget them. 
 
 This is it! You have succesfully installed your public key. 
+
+### Using your public key
+
+Now that you have generated and installed your public key on the server, you must tell Bitvise to actually make use of it. In order to do so, from the main screen of Bitvise, change the `Initial method` from `password` to `publickey`, as indicated below. 
+
+<p>
+	<center>
+		<img src="assets/bitvise_pubkey_initialmethod.png"/>
+	</center>
+</p>
+
+After selecting the specified option, you can now select which key to use with the server. It is advised to explicitely select the one you want to use, rather than leaving the software to decide, as indicated in the picture below. 
+
+<p>
+	<center>
+		<img src="assets/bitvise_pubkey_clientkey.png"/>
+	</center>
+</p>
+
+Now you can fill in your username, host and port of the server, as indicated in the image below.
+
+<p>
+	<center>
+		<img src="assets/bitvise_data.png"/>
+	</center>
+</p>
+
+> At this point you can use the `Save profile as` button on the left menu to save your `Host`, `Port` and `Username` fields, along with other modifications you have made. Similarly, to load these settings, just use the `Load profile` button. If you've made changes to a profile which has already been saved, you can save these changes by using the `Save profile` button. 
+>> The public keys you have generated are saved and taken account of regardless of whether or not you save your changes using this method. This saving is just for your future convenience, to avoid having to fill in these fields again, selecting the key, and so on. 
+
+### Connecting to the server
+
+Assuming everything went well, you should now be able to connect to the server using your selected key pair. In order to do so, use the `Log in` button from the bottom of the screen, as indicated below. This button will turn into `Log out` after a successful connection. 
+
+<p>
+	<center>
+		<img src="assets/bitvise_login.png"/>
+	</center>
+</p>
+
+> You may be prompted to enter your keypair's passphrase, if you have set one, as suggested. Remember this is **not** your account's password, but the key's password which you've set at the `Generating Keys` step.
+
+#### Connecting - Failure
+> If you haven't configured your public key correctly on either side, you may be asked to enter your password. If this happens, simply abort this step, and check if you followed this guide correctly.
+
+If you failed to configure the key correctly, you may see a screen similar to the one shown in the image below. 
+
+<p>
+	<center>
+		<img src="assets/bitvise_pubkey_rejected.png"/>
+	</center>
+</p>
+
+In this image, you can see area number `1`, which is prompting you for a password. You can also see area number `2`, which tells you authentication has failed with the configured `publickey`, and is therefore trying other authentication methods (which you do not want to do).
+
+#### Connecting - Success
+
+If however you are successful, you should see a screen similar to the one shown below. 
+
+> You may see a `User authentication banner`. This is usually informative, and is safe to close. 
+
+<p>
+	<center>
+		<img src="assets/bitvise_pubkey_accepted.png"/>
+	</center>
+</p>
+
+You can now open a `Terminal` (or more of them if you want) as well as `SFTP` windows, as indicated in the image above by fields `1` and `2` respectively. 
+
+Congratiulations! You have successfully set up the Bitvise SSH Client for use with servers of your choice, using public key authentication mechanisms. 
+
