@@ -1,3 +1,3 @@
-# Thunderbird - Office 365
+# Thunderbird - Conectare
 
 **In curs de documentare**

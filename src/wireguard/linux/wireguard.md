@@ -39,13 +39,15 @@ Sistemele care ruleaza in prezent un Kernel mai vechi de 5.6 necesita ca modulul
 
 In functie de distributia, va rugam sa instalati pachetul "wireguard-tools" folosind managerul de pachete al sistemului. Daca acest pachet nu este disponibil, incercati si numele "wireguard". Informatii mai explicite despre sistemul specific pot fi gasite [aici](https://www.wireguard.com/install).
 
-Mutati fisierul pe care l-ati downlodat in pasul anterior in `/etc/wireguard`. Este posibil sa aveti nevoie de permisiuni `sudo` (sau `root`) pentru a face modificari in acest director.
+Mutati fisierul pe care l-ati downlodat in pasul anterior in `/etc/wireguard`. Este posibil sa aveti nevoie de permisiuni `sudo` (sau `root`) pentru a face modificari in acest director. 
 
 > Daca acest director nu exista, verificati daca ati instalat pachetele Wireguard necesare sau consultati manualul pachetului Wireguard al distributiei pentru detalii despre locul unde se afla acest director de configurare.
 
 Verificati daca exista comenzile `wg` si `wg-quick` incercand sa le executati intr-o sesiune de terminal. Comanda `wg` nu ar trebui sa produca niciun rezultat in acest moment (acesta este comportamentul corect).
 
 ## Activare tunel
+
+> Va rugam sa retineti ca numele fisierului **NU** trebuie sa contina caracterele punct sau subliniere. In acest caz, va rugam sa redenumiti fisierul inainte de a continua.
 
 Luati aminte de fisierul pe care l-ati plasat in `/etc/wireguard`. Numele tunelului real este numele fisierului fara partea `.conf`. Ca utilizator `root`, sau prin intermediul `sudo`, activati tunelul folosind comanda `wg-quick`, dupa cum urmeaza:
 
