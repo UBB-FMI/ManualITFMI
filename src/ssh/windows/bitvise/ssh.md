@@ -154,7 +154,7 @@ Daca nu exista, il puteti crea tastand urmatoarea comanda:
 
 > Indiferent de existenta folderului, il puteti crea pentru orice eventualitate. In acest caz, executarea comenzii de creare va returna, in cel mai rau caz, doar un cod de eroare si nu va cauza nicio paguba. 
 
-Dupa ce acest folder este creat, puteti utiliza urmatoarea comanda pentru a adauga cheia publica la fisierul `authorized_hosts` din directorul `.ssh`, daca exista un astfel de fisier. In orice caz, puteti executa fara riscuri urmatoarea comanda:
+Dupa ce acest folder este creat, puteti utiliza urmatoarea comanda pentru a adauga cheia publica la fisierul `authorized_keys` din directorul `.ssh`, daca exista un astfel de fisier. In orice caz, puteti executa fara riscuri urmatoarea comanda:
 
 	echo "THE_PUBLIC_KEY_FROM_NOTEPAD" >> ~/.ssh/authorized_keys
 
