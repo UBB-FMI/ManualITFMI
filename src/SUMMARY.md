@@ -18,3 +18,5 @@
 - [Thunderbird](./thunderbird/thunderbird.md)
 	- [Office 365](./thunderbird/office365/thunderbird.md)
 	- [Intern](./thunderbird/intern/thunderbird.md)
+- [Depanare](./depanare/depanare.md)
+	- [Wifi Bluescreen](./depanare/wifiBluescreen.md)
