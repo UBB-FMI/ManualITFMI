@@ -37,3 +37,9 @@ Dupa ce ati completat toate campurile, puteti face clic pe "Generate". Site-ul a
 Odata ce aveti fisierul la indemana, puteti trece la urmatorul pas din acest ghid, in functie de sistemul de operare pe care il utilizati. 
 
 In cele din urma, puteti confirma functionalitatea VPN-ului asigurandu-va ca ISP-ul identificat [aici](https://www.whatismyisp.com/) este intr-adevar Universitatea Babes-Bolyai.
+
+## Ghiduri specifice sistemului de operare
+
+- Pentru **Windows**, ghidul este disponibil [aici](./windows/wireguard.md).
+- Pentru **MacOS**, ghidul este disponibil [aici](./macos/wireguard.md).
+- Pentru **Linux**, ghidul este disponibil [aici](./linux/wireguard.md).
