@@ -189,6 +189,6 @@ La final, tot continutul creat in sesiune poate fi exportat intr-un fisier PDF, 
 	</center>
 </p>
 
-> Pentru a reveni la meniul principal, se apasa butonul fizic **Home** de pe rama tablei si se selecteaza **Back**.
+> Pentru a reveni la meniul principal, se apasa butonul fizic **Home** de pe rama tablei si se selecteaza butonul digital **Home**.
 
 Utilizatorul este readus la ecranul principal, unde pot fi accesate alte aplicatii sau surse.

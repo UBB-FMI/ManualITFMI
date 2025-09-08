@@ -17,5 +17,5 @@
 
 # Echipamente
 
-- [Table Smart](./table_smart/table_smart.md)
+- [Table interactive](./table_smart/table_smart.md)
 	- [Hisense](./table_smart/hisense/hisense.md)
