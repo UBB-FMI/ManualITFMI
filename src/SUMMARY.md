@@ -19,3 +19,5 @@
 
 - [Table interactive](./table_smart/table_smart.md)
 	- [Hisense](./table_smart/hisense/hisense.md)
+	- [Newline](./table_smart/newline/newline.md)
+	- [Viewsonic](./table_smart/viewsonic/viewsonic.md)
