@@ -20,7 +20,7 @@ Partea frontala a tablei inteligente se prezinta cu **porturile USB** pe partea 
 
 The **home button**, highlighted in green, can be used to return to the main menu. -->
 
-Puteti gasi **butonul de alimentare** in partea dreapta, dupa cum puteti vedea in imaginea de mai sus. **Butonul de alimentare** este evidentiat in rosu si este utilizat pentru a porni tabla inteligenta. Daca nu este albastru sau rosu, inseamna ca tabla nu primeste curent.
+Puteti gasi **butonul de alimentare** in partea stanga, dupa cum puteti vedea in imaginea de mai sus. **Butonul de alimentare** este evidentiat in rosu si este utilizat pentru a porni tabla inteligenta. Daca nu este albastru sau rosu, inseamna ca tabla nu primeste curent.
 
 Butonul **home**, evidentiat in verde, poate fi utilizat pentru a reveni la meniul principal. 
 
@@ -64,7 +64,9 @@ Comutatorul fizic de alimentare este situat pe partea din spate si este vizibil 
 	</center>
 </p>
 
-The main menu of the smart board resembles an Android Tablet. It is not animated and is the default idle status for this type of smart board. 
+<!--The main menu of the smart board resembles an Android Tablet. It is not animated and is the default idle status for this type of smart board. -->
+
+Meniul principal al tablei inteligente seamănă cu o tabletă Android. Acesta nu este animat și este starea de inactivitate implicită pentru acest tip de tablă inteligentă. 
 
 ## Selectarea sursei HDMI
 <p>
@@ -163,11 +165,14 @@ Stergerea intregii table albe se poate face din panoul de instrumente din partea
 In meniul care apare, selectati butonul `Clear` pentru a va confirma intentia.
 
 ## Stergerea partiala a continutului
+
 <p>
 	<center>
 		<img src="assets/partialErase.webp"/>
 	</center>
 </p>
+
+
 <!--
 Erasing the whole white board can be done from the bottom instrument panel. Select the icon depicting an eraser (located to the left of the `Clear Board` icon). 
 
@@ -175,14 +180,11 @@ From the menu that opens, select the first icon. Now your finger (or the thicker
 
 The second icon from the menu deletes contiguous lines, that is, whole letters, numbers and shapes at once. -->
 
-Stergerea intregii planse albe se poate face din panoul de instrumente inferior. Selectati pictograma care reprezinta o radiera (situata in stanga pictogramei `Clear Board`). 
+Stergerea partiala a tablei albe se poate face din panoul de instrumente inferior. Selectati pictograma care reprezinta o radiera (situata in stanga pictogramei `Clear Board`). 
 
 Din meniul care se deschide, selectati prima pictograma. Acum degetul dumneavoastra (sau partea mai groasa a stylusului) actioneaza ca o guma de sters si puteti sterge la fel ca si un burete normal.
 
 A doua pictograma din meniu sterge linii contigue, adica litere intregi, numere si forme deodata.
-
-Translated with DeepL.com (free version)
-
 
 ## Adaugare pagina noua
 <p>
