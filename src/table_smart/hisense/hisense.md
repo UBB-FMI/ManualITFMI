@@ -84,7 +84,7 @@ The whiteboard is available from the main menu. It allows drawing, saving and ma
 
 > Puteti accesa aceasta aplicatie si din meniul contextual, apasand butonul fizic **Home**. 
 
-Tabla alba este disponibila din meniul principal. Aceasta permite desenarea, salvarea si gestionarea simultana a mai multor sesiuni de scriere pe tabla. 
+Pentru a porni aplicația Whiteboard, navigați la meniul principal și apăsați pe pictograma `Whiteboard`. Tabla alba este disponibila din meniul principal. Aceasta permite desenarea, salvarea si gestionarea simultana a mai multor sesiuni de scriere pe tabla. 
 
 <!--## Activarea modului de desen
 
