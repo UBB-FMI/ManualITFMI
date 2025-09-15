@@ -1,4 +1,4 @@
-# Aspect fizic al tablei
+# Aspectul fizic al tablei
 
 <p>
 	<center>
