@@ -146,6 +146,8 @@ Tabla de scris poate fi stearsa complet prin selectarea pictogramei `Radiera` di
 
 Apare o confirmare, indicand faptul ca ecranul a fost sters.
 
+> Daca aveti mai multe pagini, aceasta actiune va sterge doar continutul celei active in prezent
+
 ## Stergerea partiala a continutului
 
 <p>

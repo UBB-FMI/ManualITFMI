@@ -16,7 +16,7 @@ Partea frontala a tablei inteligente se prezinta cu **porturile USB** pe partea 
 	</center>
 </p>
 
-<!--You can find the **power button** on the right side, as you can see in the picture above. The **power button** is highlighted in red, and is used for waking up the smart board. If it is not blue or red, it means the board is not receiving electrical power. 
+<!--You can find the **power button** on the left side, as you can see in the picture above. The **power button** is highlighted in red, and is used for waking up the smart board. If it is not blue or red, it means the board is not receiving electrical power. 
 
 The **home button**, highlighted in green, can be used to return to the main menu. -->
 
@@ -49,7 +49,7 @@ Comutatorul fizic de alimentare este situat pe partea din spate si este vizibil 
 
 > Please note that this **stylus** has two ends - A thin one, and a thicker one. They serve very distinct purposes when using the whiteboard for drawing. -->
 
-**Stylus**-ul poate fi folosit ca alternativa la desenarea pe tabla cu degetul. 
+**Stylusul** poate fi folosit ca alternativa la desenarea pe tabla cu degetul. 
 
 > Va rugam sa retineti ca acest **stylus** are doua capete - Unul subtire si unul mai gros. Acestea servesc unor scopuri foarte distincte atunci cand folositi tabla pentru desenat. 
 
@@ -90,7 +90,7 @@ Comutarea tablei in afisarea unei imagini **HDMI** ar trebui sa se faca automat.
 
 De acolo, apasati pe pictograma `Source` si vi se va prezenta un nou meniu. Din acest meniu, selectati intrarea **HDMI** dorita. 
 
-> **Atentie:** Pe acest model de placa, toate intrarile **HDMI** sunt situate pe partea stanga a placii, pe partea din spate. In slotul `HDMI 1` ar trebui sa fie conectat un cablu. Daca nu este, va rugam sa il mutati in slotul corect.
+> **Atentie:** Pe acest model de placa, toate intrarile **HDMI** sunt situate pe partea stanga a tablei, pe partea din spate. In slotul `HDMI 1` ar trebui sa fie conectat un cablu. Daca nu este, va rugam sa il mutati in slotul corect.
 
 ## Adnotarea peste semnalul HDMI
 
@@ -163,6 +163,8 @@ Grosimea de desen a instrumentului `Marker` poate fi ajustata din panoul de inst
 Stergerea intregii table albe se poate face din panoul de instrumente din partea de jos. Selectati pictograma care reprezinta o radiera cu o tabla alba in fundal pentru a initia procesul. Este necesara confirmarea explicita pentru a sterge efectiv tabla. 
 
 In meniul care apare, selectati butonul `Clear` pentru a va confirma intentia.
+
+> Daca aveti mai multe pagini, aceasta actiune va sterge doar continutul celei active in prezent
 
 ## Stergerea partiala a continutului
 
