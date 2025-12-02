@@ -13,9 +13,7 @@ In functie de tipul de cont (cadru didactic sau student), este posibil sa obtine
 
 > Viteza de acces la VPN este limitata din cauza constrangerilor legate de latimea de banda si de infrastructura.
 
-In prezent, pentru a primi acces la VPN, trebuie sa solicitati permisiunea administratorilor de sistem. Ar fi recomandabil sa mentionati motivul pentru care aveti nevoie de acces.
-
-Odata ce permisiunea a fost acordata, puteti accesa gateway-ul VPN prin intermediul unui **[browser web, la acest URL](https://www.cs.ubbcluj.ro/vpn)**.
+Orice student sau cadru didactic al facultatii noastre are acces la VPN prin autentificare folosind contul Microsoft. Adresa poate fi accesata **[aici](https://www.cs.ubbcluj.ro/vpn)**.
 
 <p>
 	<center>
@@ -23,14 +21,9 @@ Odata ce permisiunea a fost acordata, puteti accesa gateway-ul VPN prin intermed
 	</center>
 </p>
 
-Aici aveti mai multe optiuni si campuri de completat. Ca atare, facand referire la captura de ecran de mai sus, acestea reprezinta:
+Daca sunteti cadru didactic, puteti genera un fisier de configurare si pentru altcineva. Va rugam **SA NU** generati configuratii pentru studenti, deoarece acestia trebuie sa parcurga singuri aceasta procedura.
 
-1. **Tipul de acces la VPN** - Cadru didactic sau Student.
-2. **Numele de utilizator de CS (sau SCS), fara adnotarea e-mail** - De exemplu, daca adresa de e-mail CS este test@cs.ubbcluj.ro, numele de utilizator este **test**.
-3. **Parola contului dumneavoastra de CS (sau SCS)** - Aceeasi ca si parola webmail.
-4. **O cheie unica pentru configuratia dumneavoastra** - Poate fi orice doriti, are rolul de a determina modul de generare a configuratiei dumneavoastra.
-
-Dupa ce ati completat toate campurile, puteti face clic pe "Generate". Site-ul ar trebui sa va solicite sa descarcati un fisier al carui nume se termina cu ".conf". Pastrati acest fisier in siguranta.
+Continuati cu autentificarea Microsoft pentru a genera fisierul de descarcat. Site-ul ar trebui sa va solicite sa descarcati un fisier al carui nume se termina cu ".conf". Pastrati acest fisier in siguranta.
 
 > Fisierul de configurare joaca rolul unei carti de identitate. Oricine reuseste sa il fure poate sa se dea drept dumneavoastra. Intr-un astfel de scenariu, puteti fi tras la raspundere pentru eventualele consecinte.
 
