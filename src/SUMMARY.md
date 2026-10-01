@@ -9,6 +9,9 @@
 	- [MacOS](./wireguard/macos/wireguard.md)
 	- [Linux](./wireguard/linux/wireguard.md)
 
+- [RustDesk](./rustdesk/rustdesk.md)
+	- [Windows](./rustdesk/windows/rustdesk.md)
+
 - [SSH & SFTP](./ssh/ssh.md)
 	- [Windows](./ssh/windows/ssh.md)
 		- [Bitvise SSH](./ssh/windows/bitvise/ssh.md)
