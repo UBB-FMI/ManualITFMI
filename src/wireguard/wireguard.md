@@ -13,7 +13,7 @@ In functie de tipul de cont (cadru didactic sau student), este posibil sa obtine
 
 > Viteza de acces la VPN este limitata din cauza constrangerilor legate de latimea de banda si de infrastructura.
 
-Orice student sau cadru didactic al facultatii noastre are acces la VPN prin autentificare folosind contul Microsoft. Adresa poate fi accesata **[aici](https://www.cs.ubbcluj.ro/vpn)**.
+Orice student sau cadru didactic al facultatii noastre are acces la VPN prin autentificare folosind contul Microsoft. Adresa poate fi accesata **[aici](https://www.cs.ubbcluj.ro/apps/vpn/)**.
 
 <p>
 	<center>
