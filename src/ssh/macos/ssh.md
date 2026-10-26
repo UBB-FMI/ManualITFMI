@@ -1,3 +1,3 @@
-# MacOS
+# macOS
 
-**In curs de documentare**
+Pentru macOS, puteți accesa servere de SFTP folosind [acest ghid](./sftp.md).
