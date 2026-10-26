@@ -47,6 +47,11 @@ Adăugăm o nouă conexiune:
     </center>
 </p>
 
+Serverele dispuse de facultate sunt:
+- 172.30.0.3, port 2222 -> cs.ubbcluj.ro
+- 172.30.0.5, port 2222 -> math.cs.ubbcluj.ro
+- 172.30.240.4, port 22 -> scs.ubbcluj.ro
+
 Selectăm SFTP din meniul drop-down și ne punem credențialele pentru serverul la care vrem să ne conectăm, apoi apăsăm pe connect:
 <p>
     <center>
