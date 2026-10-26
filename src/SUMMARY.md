@@ -6,7 +6,7 @@
 
 - [VPN Wireguard](./wireguard/wireguard.md)
 	- [Windows](./wireguard/windows/wireguard.md)
-	- [MacOS](./wireguard/macos/wireguard.md)
+	- [macOS](./wireguard/macos/wireguard.md)
 	- [Linux](./wireguard/linux/wireguard.md)
 
 - [RustDesk](./rustdesk/rustdesk.md)
@@ -16,7 +16,8 @@
 	- [Windows](./ssh/windows/ssh.md)
 		- [Bitvise SSH](./ssh/windows/bitvise/ssh.md)
 			- [Extra](./ssh/windows/bitvise/extra/ssh.md)
-		- [PuTTY](./ssh/windows/putty/ssh.md)
+	- [macOS](./ssh/macos/ssh.md)
+	    - [SFTP](./ssh/macos/sftp.md)
 
 # Echipamente
 
